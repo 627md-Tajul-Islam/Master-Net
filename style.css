@@ -1,0 +1,90 @@
+                           /* Header Part Css  */
+
+.logo{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.number{
+  margin-top: 40px;
+  margin-left: 300px;
+}
+.live{
+  margin-left: 588px;
+  margin-top: -28px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: color 0.5s;
+  cursor: pointer;
+}
+.live:hover{
+color: #81C740;
+}
+.btn{
+  margin-left: 722px;
+  margin-top: -85px;
+  border-radius: 30px;
+  height: 40px;
+  width: 110px;
+}
+.btn:hover{
+  background-color: black;
+}
+.login{
+  height: 30px;
+  width: 30px;
+}
+a {
+    color: #f7f7f7;
+    text-decoration: none;
+    background-color: transparent;
+    margin-top: 10px;
+
+}
+a:hover {
+    color: red;
+    background-color: white;
+    margin-top: 10px;
+}
+.mota{
+  height: 60px;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: #d6cdcd;
+    border: 0;
+}
+ul li:hover{
+  background-color: white;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    height: 60px;
+}
+.special{
+  background-color: #F4F4F4;
+}
+.smi{
+  height: 350px;
+}
+.likha{
+  margin-top: 50px;
+}
+.likha h3{
+  font-size: 30px;
+}
+.likha h2{
+ font-weight: 800;
+}
+.raj img{
+  margin-top: 70px;
+  margin-right: 35px;
+  float: left;
+}
